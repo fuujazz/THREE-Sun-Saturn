@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/THREE-Sun-Saturn/static/css/main.c54cb836.css",
+    "main.js": "/THREE-Sun-Saturn/static/js/main.48507afb.js",
+    "static/js/787.acad34d5.chunk.js": "/THREE-Sun-Saturn/static/js/787.acad34d5.chunk.js",
+    "static/media/sun.jpg": "/THREE-Sun-Saturn/static/media/sun.45eae081a872166a81c4.jpg",
+    "index.html": "/THREE-Sun-Saturn/index.html",
+    "main.c54cb836.css.map": "/THREE-Sun-Saturn/static/css/main.c54cb836.css.map",
+    "main.48507afb.js.map": "/THREE-Sun-Saturn/static/js/main.48507afb.js.map",
+    "787.acad34d5.chunk.js.map": "/THREE-Sun-Saturn/static/js/787.acad34d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c54cb836.css",
+    "static/js/main.48507afb.js"
+  ]
+}
